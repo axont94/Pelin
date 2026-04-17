@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "seksihardcore1.aternos.me:58230",
+    "ip": "seksihardcore1.aternos.me",
     "port": 58230,
     "version": "",
     "try-creative": false
